@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionMark", "QuestionMark\QuestionMark.csproj", "{B256901C-EF63-4AEE-857E-DC82AE750DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14880B74-6FC8-4864-B8AA-F5C278993856}
+	EndGlobalSection
+EndGlobal
