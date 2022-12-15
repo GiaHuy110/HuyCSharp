@@ -29,3 +29,7 @@ Console.WriteLine(name is not null ? true : false);
 
 int? length = name?.Length;
 
+// ?? => null coalescing operator
+// ?? tương tự (==), nếu cái gì đó bằng null thì lấy cái vế sau
+int? chieudai = name?.Length ?? 10;
+
