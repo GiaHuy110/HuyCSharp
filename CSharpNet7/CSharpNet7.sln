@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionMark", "QuestionMark\QuestionMark.csproj", "{B256901C-EF63-4AEE-857E-DC82AE750DEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionMark", "QuestionMark\QuestionMark.csproj", "{F4FFE07F-67E4-4FFB-B715-E0C85064E053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B256901C-EF63-4AEE-857E-DC82AE750DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FFE07F-67E4-4FFB-B715-E0C85064E053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FFE07F-67E4-4FFB-B715-E0C85064E053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FFE07F-67E4-4FFB-B715-E0C85064E053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FFE07F-67E4-4FFB-B715-E0C85064E053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
