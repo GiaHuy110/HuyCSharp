@@ -1,0 +1,15 @@
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.exe
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.deps.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.runtimeconfig.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.AssemblyReference.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfoInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfo.cs
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\refint\OopEncapsulation.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.genruntimeconfig.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\ref\OopEncapsulation.dll

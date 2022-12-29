@@ -1,0 +1,15 @@
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.exe
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.deps.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.runtimeconfig.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.AssemblyReference.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfoInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfo.cs
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.CoreCompileInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\refint\ListAndLinq.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.genruntimeconfig.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ref\ListAndLinq.dll

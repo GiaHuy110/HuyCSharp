@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OopEncapsulationCont/1.0.0": {
+        "dependencies": {
+          "OopEncapsulation": "1.0.0"
+        },
+        "runtime": {
+          "OopEncapsulationCont.dll": {}
+        }
+      },
+      "OopEncapsulation/1.0.0": {
+        "runtime": {
+          "OopEncapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopEncapsulationCont/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OopEncapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

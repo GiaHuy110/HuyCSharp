@@ -1,0 +1,5 @@
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.AssemblyReference.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfoInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfo.cs
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.CoreCompileInputs.cache

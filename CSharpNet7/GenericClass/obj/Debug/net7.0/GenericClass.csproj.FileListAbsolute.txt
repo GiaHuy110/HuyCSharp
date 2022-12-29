@@ -1,0 +1,15 @@
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.exe
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.deps.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.runtimeconfig.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.csproj.AssemblyReference.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfo.cs
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\refint\GenericClass.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.genruntimeconfig.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\ref\GenericClass.dll

@@ -1,0 +1,15 @@
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\bin\Debug\net7.0\Baitap1.exe
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\bin\Debug\net7.0\Baitap1.deps.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\bin\Debug\net7.0\Baitap1.runtimeconfig.json
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\bin\Debug\net7.0\Baitap1.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\bin\Debug\net7.0\Baitap1.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.csproj.AssemblyReference.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.AssemblyInfoInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.AssemblyInfo.cs
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\refint\Baitap1.dll
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.pdb
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\Baitap1.genruntimeconfig.cache
+C:\Users\huy77\source\repos\HuyCSharp\CSharpNet7\Baitap1\obj\Debug\net7.0\ref\Baitap1.dll

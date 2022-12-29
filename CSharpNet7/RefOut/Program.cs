@@ -20,7 +20,6 @@ Console.WriteLine($"{nameof(a)}={a}, {nameof(b)}={b}");
 //var parse = new RegexTryParse();
 
 // target-type c# new
-RegexTryParse parse = new();
+RegexTryParse p = new();
 //parse.CheckNumberByRegex();
 //parse.CheckStringByTryParse();
-parse.TryCatchBug();
